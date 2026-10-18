@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="hero-v2.svg" alt="claudecodeb2bsaas. I build software businesses run on." width="100%"/>
+<img src="ui-hero.svg" alt="claudecodeb2bsaas. I build software businesses run on." width="100%"/>
 
 <br/><br/>
 
-<img src="bento.svg" alt="SaaS products, bots, automation, clean code" width="100%"/>
+<img src="ui-about.svg" alt="Design, code, bots, marketing, automation, motion, product, community" width="100%"/>
 
 <br/><br/>
 
-<img src="stack-v2.svg" alt="TypeScript, Node.js, Python, React, PostgreSQL, Docker and more" width="100%"/>
+<img src="ui-stack.svg" alt="Tools: TypeScript, Node.js, Python, React, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git and more" width="100%"/>
 
 <br/><br/>
 
-<a href="https://t.me/karl_junhky"><img src="telegram.svg" alt="Telegram @karl_junhky" width="49%"/></a>
-<img src="discord.svg" alt="Discord karl_junhky" width="49%"/>
+<a href="https://t.me/+afel2qXC9-pkNzAy"><img src="ui-telegram.svg" alt="Telegram channel" width="32%"/></a>
+<img src="ui-discord.svg" alt="Discord karl_junhky" width="32%"/>
+<a href="https://github.com/claudecodeb2bsaas"><img src="ui-github.svg" alt="GitHub claudecodeb2bsaas" width="32%"/></a>
 
 </div>
