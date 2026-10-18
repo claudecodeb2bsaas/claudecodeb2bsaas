@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" alt="claudecodeb2bsaas. I build software businesses run on." width="100%"/>
+<img src="hero-v2.svg" alt="claudecodeb2bsaas. I build software businesses run on." width="100%"/>
 
 <br/><br/>
 
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="stack.svg" alt="TypeScript, Node.js, Python, React, PostgreSQL, Docker and more" width="100%"/>
+<img src="stack-v2.svg" alt="TypeScript, Node.js, Python, React, PostgreSQL, Docker and more" width="100%"/>
 
 <br/><br/>
 
